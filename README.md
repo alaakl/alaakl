@@ -1,6 +1,6 @@
 # Hi, I'm ALAA KHADDAM ALJAMEH 👋
 
-I'm a passionate backend Laravel developer and ITE (Information Technology Engineering) engineer with a strong focus on building scalable and efficient web applications. With 2 years of experience in software development, I have a deep understanding of modern web technologies and best practices.
+I'm a passionate backend Laravel developer and ITE (Information Technology Engineering) engineer with a strong focus on building scalable and efficient web applications. With 3 years of experience in software development, I have a deep understanding of modern web technologies and best practices.
 
 ## 🚀 Skills and Expertise
 
